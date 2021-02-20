@@ -2,8 +2,9 @@ version: 0.2
         
 phases:
   build:
+    commands:
       - echo "Entered build phase"
-      - mvn clean install
+      - mvn clean install 
 artifacts:
   files:
     - target/hotelreservation.war
