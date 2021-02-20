@@ -15,8 +15,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 <div class="w3-content" style="max-width:1532px;">
 
   <div class="w3-container w3-margin-top" id="rooms">
-    <h3>Comb</h3>
-    <p>Make yourself at home is our slogan. We offer the best beds in the industry. Sleep well and rest well.</p>
+    <h3>List of Working Areas</h3>
+    <p>There is not better place than those for now </p>
   </div>
 
   <div class="w3-row-padding w3-padding-16">
@@ -105,7 +105,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
                 <p>Queen-size bed</p>
                 <p>25m<sup>2</sup></p>
                 <p class="w3-large"><i class="fa fa-bath"></i> <i class="fa fa-phone"></i> <i class="fa fa-wifi"></i> <i class="fa fa-tv"></i></p>
-                <button class="w3-button w3-block w3-black w3-margin-bottom">Choose Room</button>
+                <button class="w3-button w3-block w3-black w3-margin-bottom">Work Here</button>
               </div>
             </div>
             <div class="w3-third w3-margin-bottom">
