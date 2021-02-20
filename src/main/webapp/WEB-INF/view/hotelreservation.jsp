@@ -52,7 +52,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 
   <div class="w3-row-padding w3-large w3-center" style="margin:32px 0">
     <div class="w3-third"><i class="fa fa-map-marker w3-text-red"></i> Riga, LV</div>
-    <div class="w3-third"><i class="fa fa-phone w3-text-red"></i> Phone: +371 8524565div>
+    <div class="w3-third"><i class="fa fa-phone w3-text-red"></i> Phone: +371 8524565</div>
     <div class="w3-third"><i class="fa fa-envelope w3-text-red"></i> Email: mail@honeycomb.com</div>
   </div>
 
