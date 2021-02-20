@@ -1,11 +1,14 @@
 version: 0.2
-        
+
 phases:
-  build:
+  install:
+    runtime-versions:
+      java: corretto11
+  post_build:
     commands:
-      - echo "Entered build phase"
-      - mvn clean install 
+      - mvn package
+      - mv target/ROOT.war ROOT.war
 artifacts:
   files:
-    - target/honeycomb.war
-  discard-paths: yes
+    - ROOT.war
+    - .ebextensions/**/*
