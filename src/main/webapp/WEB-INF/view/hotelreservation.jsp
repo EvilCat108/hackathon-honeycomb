@@ -44,7 +44,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
             <input class="w3-input w3-border" type="number" value="1" name="Adults" min="1" max="6">
           </div>
         </div>
-        <a href="/hotelreservation/listresult" class="w3-input w3-border"> Search availability</a>
+        <a href="/listresult" class="w3-input w3-border"> Search availability</a>
       </form>
     </div>
   </div>
