@@ -7,5 +7,5 @@ phases:
       - mvn clean install 
 artifacts:
   files:
-    - target/hotelreservation.war
+    - hotelreservation.war
   discard-paths: yes
