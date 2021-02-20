@@ -21,7 +21,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 </div>
 <!-- Header -->
 <header class="w3-display-container w3-content" style="max-width:1500px;">
-  <img class="w3-image" src="https://www.w3schools.com/w3images/hotel.jpg" alt="The Hotel" style="min-width:1000px" width="1500" height="800">
+  <img class="w3-image" src="https://honeypot-images.s3.eu-south-1.amazonaws.com/image+(10).jpg" alt="HoneyComb" style="min-width:1000px" width="1500" height="800">
   <div class="w3-display-left w3-padding w3-col l6 m8">
     <div class="w3-container w3-red">
       <h2><i class="fa fa-bed w3-margin-right"></i>Hotel Name</h2>
@@ -48,7 +48,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
           <input class="w3-input w3-border" type="number" value="0" name="Kids" min="0" max="6">
           </div>
         </div>
-        <a href="/hotelreservation/listresult"> Search availability</a>
+        <a href="/hotelreservation/listresult" class="w3-input w3-border"> Search availability</a>
       </form>
     </div>
   </div>
