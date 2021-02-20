@@ -13,7 +13,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 
 <!-- Navigation Bar -->
 <div class="w3-bar w3-white w3-large">
-  <a href="#" class="w3-bar-item w3-button w3-red w3-mobile"><img class="w3-image" src="https://honeypot-images.s3.eu-south-1.amazonaws.com/logo.png" alt="HoneyComb" style="min-width:200px" width="30" height="30"> </a>
+  <a href="#" class="w3-bar-item w3-button w3-red w3-mobile"><img class="w3-image" src="https://honeypot-images.s3.eu-south-1.amazonaws.com/logo.png" alt="HoneyComb" style="min-width:200px" width="50" height="50"> </a>
   <a href="#contact" class="w3-bar-item w3-button w3-mobile">Contact</a>
   <a href="#contact" class="w3-bar-item w3-button w3-right w3-light-grey w3-mobile">Work now</a>
 </div>
