@@ -7,5 +7,5 @@ phases:
       - mvn clean install 
 artifacts:
   files:
-    - hotelreservation.war
+    - target/honeycomb.war
   discard-paths: yes
