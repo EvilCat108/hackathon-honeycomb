@@ -13,7 +13,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 
 <!-- Navigation Bar -->
 <div class="w3-bar w3-white w3-large">
-  <a href="#" class="w3-bar-item w3-button w3-red w3-mobile"><img class="w3-image" src="https://honeypot-images.s3.eu-south-1.amazonaws.com/logo.png" alt="HoneyComb" style="min-width:200px" width="200" height="200"> </a>
+  <a href="#" class="w3-bar-item w3-button w3-red w3-mobile"><img class="w3-image" src="https://honeypot-images.s3.eu-south-1.amazonaws.com/logo.png" alt="HoneyComb" style="width:100%" width="50" height="50"> </a>
   <a href="#contact" class="w3-bar-item w3-button w3-mobile">Contact</a>
   <a href="#contact" class="w3-bar-item w3-button w3-right w3-light-grey w3-mobile">Work now</a>
 </div>
@@ -22,7 +22,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
   <img class="w3-image" src="https://honeypot-images.s3.eu-south-1.amazonaws.com/image+(10).jpg" alt="HoneyComb" style="min-width:1000px" width="1500" height="800">
   <div class="w3-display-left w3-padding w3-col l6 m8">
     <div class="w3-container w3-red">
-      <h2><i class="fa fa-bed w3-margin-right"></i>HoneyComb</h2>
+      <h2></i>HoneyComb</h2>
     </div>
     <div class="w3-container w3-white w3-padding-16">
       <form action="/action_page.php" target="_blank">
