@@ -55,7 +55,7 @@
 <!-- Add support for Maven WAR Plugin -->
 
 	<build>
-		<finalName>honeycomb</finalName>
+		<finalName>ROOT</finalName>
 	
 
 	</build>
