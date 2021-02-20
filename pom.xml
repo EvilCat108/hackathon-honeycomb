@@ -55,7 +55,7 @@
 <!-- Add support for Maven WAR Plugin -->
 
 	<build>
-		<finalName>hotelreservation</finalName>
+		<finalName>honeycomb</finalName>
 	
 
 	</build>
