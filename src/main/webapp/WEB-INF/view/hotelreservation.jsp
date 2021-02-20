@@ -13,11 +13,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 
 <!-- Navigation Bar -->
 <div class="w3-bar w3-white w3-large">
-  <a href="#" class="w3-bar-item w3-button w3-red w3-mobile"><i class="fa fa-bed w3-margin-right"></i>Logo</a>
-  <a href="#rooms" class="w3-bar-item w3-button w3-mobile">Rooms</a>
-  <a href="#about" class="w3-bar-item w3-button w3-mobile">About</a>
+  <a href="#" class="w3-bar-item w3-button w3-red w3-mobile"><img class="w3-image" src="https://honeypot-images.s3.eu-south-1.amazonaws.com/logo.png" alt="HoneyComb" style="min-width:200px" width="200" height="200"> </a>
   <a href="#contact" class="w3-bar-item w3-button w3-mobile">Contact</a>
-  <a href="#contact" class="w3-bar-item w3-button w3-right w3-light-grey w3-mobile">Book Now</a>
+  <a href="#contact" class="w3-bar-item w3-button w3-right w3-light-grey w3-mobile">Work now</a>
 </div>
 <!-- Header -->
 <header class="w3-display-container w3-content" style="max-width:1500px;">
@@ -30,12 +28,12 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
       <form action="/action_page.php" target="_blank">
         <div class="w3-row-padding" style="margin:0 -16px;">
           <div class="w3-half w3-margin-bottom">
-            <label><i class="fa fa-calendar-o"></i> Check In</label>
-            <input class="w3-input w3-border" type="text" placeholder="DD MM YYYY" name="CheckIn" required>
+            <label><i class="fa fa-calendar-o"></i>Begginin Of the Work</label>
+            <input class="w3-input w3-border" type="text" placeholder="DD MM YYYY" name="CheckIn"  value="03 03 2021" required>
           </div>
           <div class="w3-half">
-            <label><i class="fa fa-calendar-o"></i> Check Out</label>
-            <input class="w3-input w3-border" type="text" placeholder="DD MM YYYY" name="CheckOut" required>
+            <label><i class="fa fa-calendar-o"></i> end of the Work </label>
+            <input class="w3-input w3-border" type="text" placeholder="DD MM YYYY" name="CheckOut"  value="13 03 2021" required>
           </div>
         </div>
         <div class="w3-row-padding" style="margin:8px -16px;">
@@ -51,26 +49,18 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 </header>
 
 <!-- Page content -->
-<div class="w3-content" style="max-width:1532px;">
-  <div class="w3-row-padding" id="about">
-    <div class="w3-col l4 12">
-      <h3>About</h3>
-      <h6>Our HoneyComb is one of a kind homesharing for work purposes. It is truely amazing.</h6>
-    </div>
-    <div class="w3-col l8 12">
-      <!-- Image of location/map -->
-      <img src="https://www.w3schools.com/w3images/map.jpg" class="w3-image w3-greyscale" style="width:100%;">
-    </div>
-  </div>
-  
+
   <div class="w3-row-padding w3-large w3-center" style="margin:32px 0">
     <div class="w3-third"><i class="fa fa-map-marker w3-text-red"></i> Riga, LV</div>
-    <div class="w3-third"><i class="fa fa-phone w3-text-red"></i> Phone: +371 ********</div>
-    <div class="w3-third"><i class="fa fa-envelope w3-text-red"></i> Email: mail@mail.com</div>
+    <div class="w3-third"><i class="fa fa-phone w3-text-red"></i> Phone: +371 8524565div>
+    <div class="w3-third"><i class="fa fa-envelope w3-text-red"></i> Email: mail@honeycomb.com</div>
   </div>
 
   <div class="w3-panel w3-red w3-leftbar w3-padding-32">
-    <h6><i class="fa fa-info w3-deep-orange w3-padding w3-margin-right"></i> On demand, we can offer playstation, babycall, children care, dog equipment, etc.</h6>
+    <h6><i class="fa fa-info w3-deep-orange w3-padding w3-margin-right"></i>
+    Our HoneyComb is one of a kind space sharing for work purposes.
+    Beside High speed internet
+     </h6>
   </div>
 
   <div class="w3-container">
